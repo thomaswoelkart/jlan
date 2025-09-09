@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!221 &22100000
+AnimatorOverrideController:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Teshi
+  m_Controller: {fileID: 9100000, guid: fe8ec2dadd9cc084cbba18d77eb89e69, type: 2}
+  m_Clips:
+  - m_OriginalClip: {fileID: 7400000, guid: b2e1dfeb83a31ee48aaa9bbac06761b5, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 6a679505170fcaa41b82e61311be5db4, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: b477d3284b3d5044c9ca98c570d4b90b, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: b82ad3e8e6d18a848b744962576184c8, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: a89419eae864f7740a28c942d77bfa14, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 48bb6359a7a4d5144a161e8b36b0de64, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: 6eef7ba380292db4c8748c427dcbce79, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: f68a2d80ccf1989499bd495fd38cf336, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: fa6f9d6cb69eeaa4e8ba0877b2d591d8, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 6b775f99a47155c45a3fa4e1a87c1ae4, type: 2}

@@ -1,0 +1,61 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Pause
+  - Jlan
+  - Teshi
+  - Supaman
+  - Terukazu
+  - Undefined
+  - Akira
+  - Heal
+  - Jump
+  - Speed
+  - Katana
+  - Iaito
+  - Tanto
+  - Music
+  - BattleMusic
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Player
+  - Water
+  - UI
+  - ground
+  - Coin
+  - finish
+  - snake
+  - bat
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: FadeLayer
+    uniqueID: 1189130805
+    locked: 0

@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!221 &22100000
+AnimatorOverrideController:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Terukazu_Con
+  m_Controller: {fileID: 9100000, guid: fe8ec2dadd9cc084cbba18d77eb89e69, type: 2}
+  m_Clips:
+  - m_OriginalClip: {fileID: 7400000, guid: b2e1dfeb83a31ee48aaa9bbac06761b5, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 7f219ae19b564ee45bc0aecabb20282d, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: b477d3284b3d5044c9ca98c570d4b90b, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 9341417a0fa9602478a50beb92eb05e4, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: a89419eae864f7740a28c942d77bfa14, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: dbc6885fe52da3849b5ba8047267b561, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: 6eef7ba380292db4c8748c427dcbce79, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 820a3f1f44d9a2b44bd7e2b389db5bfe, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: fa6f9d6cb69eeaa4e8ba0877b2d591d8, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 42599339a639f7143889338c3398c9e5, type: 2}

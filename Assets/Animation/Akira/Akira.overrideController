@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!221 &22100000
+AnimatorOverrideController:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Akira
+  m_Controller: {fileID: 9100000, guid: fe8ec2dadd9cc084cbba18d77eb89e69, type: 2}
+  m_Clips:
+  - m_OriginalClip: {fileID: 7400000, guid: b2e1dfeb83a31ee48aaa9bbac06761b5, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: eeaf138bc8a26b44f9da1fb4b8392db7, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: b477d3284b3d5044c9ca98c570d4b90b, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 8502cb4b9850f094380f0ef9eb68c14c, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: a89419eae864f7740a28c942d77bfa14, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 71cf09e8e6ce480488690bf26beddad6, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: 6eef7ba380292db4c8748c427dcbce79, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 91881bb5e4dd7a04daa6851b6c8a13d1, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: fa6f9d6cb69eeaa4e8ba0877b2d591d8, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 0a38b5e7ea2576746be49beeb690427b, type: 2}
