@@ -1,10 +1,10 @@
 # Jump like a Ninja
 
-A 2D platform adventure game built in Unity where you play as a ninja navigating through challenging levels, fighting enemies, and avoiding deadly traps to reach the flag and complete each level.
+*A school project from 2021/22.*
 
 ## Game Description
 
-Jump like a Ninja is a platform adventure game where your goal is to help the ninja jump on platforms and fight against deadly enemies. Some platforms can be traps, so be careful! Reach the flag to pass each level and progress through the game.
+Jump like a Ninja is a 2D platform adventure game built in Unity. As a ninja, you'll navigate through challenging levels, fighting deadly enemies and avoiding traps to reach the flag. Be careful—some platforms are traps! Your goal is to pass each of the 10 levels and progress through the game.
 
 ## Features
 
